@@ -4,6 +4,17 @@
 wget https://raw.githubusercontent.com/kubernetes/client-go/master/examples/out-of-cluster-client-configuration/main.go
 ```
 
+```
+go mod init client-go-demo
+
+go mod tidy
+
+go build
+
+./client-go-demo
+
+```
+
 
 
 ```
