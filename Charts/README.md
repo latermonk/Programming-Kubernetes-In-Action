@@ -14,7 +14,7 @@ https://bitnami.com/stacks/helm
 ```
 helm repo add bitnami https://charts.bitnami.com/bitnami  
 ```
-##  kubeApp
+####  kubeApp
 https://kubeapps.com/docs/getting-started/    
 
 
