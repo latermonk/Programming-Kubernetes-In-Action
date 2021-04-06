@@ -1,6 +1,7 @@
 # Programming-Kubernetes-In-Action
 
-(https://raw.githubusercontent.com/latermonk/Programming-Kubernetes-In-Action/main/_image/k8s%20App%20.png)[https://raw.githubusercontent.com/latermonk/Programming-Kubernetes-In-Action/main/_image/k8s%20App%20.png]
+
+![k8s App ](_image/k8s%20App%20.png)
 
 
 
