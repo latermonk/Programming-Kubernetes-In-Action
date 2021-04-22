@@ -1,3 +1,11 @@
+
+#  Gin脚手架实战开发k8s管理系统(第一波)  
+
+https://www.jtthink.com/course/144
+
+
+
+
 #  Cloud Native Archtect 云原生架构师系列课程     
 https://cloudnative365.github.io/keynotes_L4_architect.html     
 
