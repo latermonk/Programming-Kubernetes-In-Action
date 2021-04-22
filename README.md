@@ -1,4 +1,18 @@
 
+
+#   go-micro social server. gin mysql redis mongo docker k8s jaeger grafana     
+https://github.com/liangjfblue/gmicro   
+
+
+
+#   与kubernetes集群的API通信的Golang（gin）API     
+https://github.com/ivanilsonaraujojr/k8sclientgo     
+
+
+
+
+
+
 #  Gin脚手架实战开发k8s管理系统(第一波)  
 
 https://www.jtthink.com/course/144
