@@ -1,3 +1,10 @@
+#  POD on NODES 
+
+```
+kubectl get pods -n <namespace> -o wide --field-selector=spec.nodeName=<node_name> | awk '{print $1" "$5}' | sort -rn -k 2 | head -10
+```
+
+
 
 
 #   go-micro social server. gin mysql redis mongo docker k8s jaeger grafana     
