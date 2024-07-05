@@ -4,6 +4,10 @@
 kubectl get pods -n <namespace> -o wide --field-selector=spec.nodeName=<node_name> | awk '{print $1" "$5}' | sort -rn -k 2 | head -10
 ```
 
+```
+kubectl describe node <node_name> | grep -A 10 Containers | awk '{print $2"  "$4}'
+
+```
 
 
 
